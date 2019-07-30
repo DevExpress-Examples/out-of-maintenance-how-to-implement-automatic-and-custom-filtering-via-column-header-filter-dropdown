@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # How to implement automatic and custom filtering via column header filter dropdowns
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2888)**
+**[[Run Online]](https://codecentral.devexpress.com/e2888/)**
 <!-- run online end -->
 
 
